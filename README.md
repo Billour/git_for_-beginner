@@ -1,5 +1,5 @@
-# git_for_-beginner
-git_for_ beginner
+# git_for_beginner
+
     
 *重點: 2020年 Github 把 branch "master" 預設改為 "main" ，這樣造成 git  在你的本機電腦上的branch是 "master"，兩者名稱不同，會造成衝突。  
 *一個全新的 git 一定要有檔案才有辨法上傳至 github 這是規定。  
