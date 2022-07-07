@@ -9,18 +9,14 @@ Bath
 ```  
 git init  
 ```  
-  
-  
-  
-  
-  
-  
+--------  
+ 
 新增「資料夾內」的「所有檔案」至git  
 ```  
 git add .  
 ```  
 請記得 是 git (空白) add (空白) .     最後一個是 "."= 點  
-  
+--------  
   
 ```  
 git commit -m "first commit"  
