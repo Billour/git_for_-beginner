@@ -24,44 +24,43 @@ git add .
 ```  
 git commit -m "first commit"  
 ```    
-
 --------  
 <br/>  
+  
+  
 提交資料  至「本機端 git 」(local git) -u   
 *如果有版本衝突時會提醒  
 ```  
 git push -u origin master  
 ```    
-
 --------  
 <br/>    
+  
 提交資料  至「本機端 git 」(local git) -f  
 *如果有版本衝突時「不會」提醒  
 ```  
 git push -f origin master  
-```    
-
+```   
 --------  
-<br/>    
+<br/>  
+
 下載資料
 ```  
 git pull origin master  
-```    
-
+```  
 --------  
-<br/>    
+<br/>  
+
 換host 位置  
 ```  
 git pull --rebase origin master  
 ```  
-
 --------  
-<br/>    
+<br/>  
+
 查詢現在正在那個分支
 ```  
 git branch --list  
 ```  
-
-
 --------  
 <br/>  
