@@ -10,6 +10,11 @@ Bath
 git init  
 ```  
   
+  
+  
+  
+  
+  
 新增「資料夾內」的「所有檔案」至git  
 ```  
 git add .  
